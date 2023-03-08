@@ -1,0 +1,29 @@
+.container {
+  width: 1200px;
+  margin: 200px auto;
+  padding: 2rem;
+  background-color: aqua;
+}
+
+.form {
+  margin-bottom: 2rem;
+}
+.form-input {
+  margin-bottom: 0.9rem;
+}
+
+.lists {
+  list-style: none;
+}
+
+.list {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+button {
+  padding: 0.6rem 1rem;
+  cursor: pointer;
+}
